@@ -1,6 +1,6 @@
 # Solar Flare Analysis
 
-This project aims to characterize solar activity and evaluate predictive models for flare behavior using the **ASR (Archival Solar Flares) catalog** (Berretti & Mestici et al., 2025). 
+This project aims to characterize solar activity and evaluate predictive models for flare behavior using the **ASR (Archival Solar Flares) catalog** ([Berretti & Mestici et al., 2025](https://github.com/helio-unitov/ASR_cat)).
 
 The repository provides a comprehensive pipeline to process, analyze, and model solar flare data, from statistical trend analysis to machine learning classification.
 
